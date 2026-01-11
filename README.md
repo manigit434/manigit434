@@ -15,8 +15,7 @@ Java, HTML, CSS, Full Stack Web Development, and Database Management using MySQL
 💬 Ask me about  
 Java basics, HTML & CSS, MySQL queries, and full stack development fundamentals.
 
-⚡ Fun fact  
-I enjoy turning ideas into working web applications and love learning new technologies step by step 🚀
+⚡ **Fun Fact**: I enjoy turning ideas into working web applications and love learning new technologies step by step 🚀
 
 ---
 
@@ -44,7 +43,7 @@ I enjoy turning ideas into working web applications and love learning new techno
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manigit434&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manigit434&layout=compact&theme=github_dark&hide_border=true&langs_count=8&hide=html,css)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manigit434&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=manigit434&theme=github-dark)
 
