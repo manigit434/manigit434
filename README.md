@@ -34,8 +34,7 @@ Java basics, HTML & CSS, MySQL queries, and full stack development fundamentals.
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
----
+![Render](https://img.shields.io/badge/render-%23430098.svg?style=for-the-badge&logo=render&logoColor=white)
 
 # 📊 GitHub Stats:
 
