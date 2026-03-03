@@ -21,7 +21,7 @@ Java basics, HTML & CSS, MySQL queries, and full stack development fundamentals.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manikanta-katta-8040aa256/)
-
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/u/Manikanta_434/)
 ---
 
 # 💻 Tech Stack:
