@@ -38,11 +38,11 @@ Java basics, HTML & CSS, MySQL queries, and full stack development fundamentals.
 
 # 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manigit434&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manigit434&show_icons=true&theme=dark)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manigit434&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manigit434&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manigit434&layout=compact&theme=dark)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=manigit434&theme=github-dark)
 
