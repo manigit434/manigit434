@@ -1,21 +1,22 @@
-# 💫 About Me:
+## 👋 About Me
 
-🔭 I’m currently working on  
-Building full stack web applications and strengthening my fundamentals in frontend and backend development.
+🔭 I’m currently working on
+Cybersecurity projects, cryptography implementations, and secure system design.
 
-👯 I’m looking to collaborate on  
-Beginner to intermediate full stack projects, web applications, and open-source contributions.
+👯 I’m looking to collaborate on
+Cybersecurity tools, blockchain security, ethical hacking labs, and open-source security projects.
 
-🤝 I’m looking for help with  
-Improving backend logic, database optimization, and real-world project architecture.
+🤝 I’m looking for help with
+Advanced cryptography, secure architecture, and real-world cybersecurity research.
 
-🌱 I’m currently learning  
-Java, HTML, CSS, Full Stack Web Development, and Database Management using MySQL.
+🌱 I’m currently learning
+Network Security, Cryptography, Blockchain Security, Digital Forensics, and Secure Coding.
 
-💬 Ask me about  
-Java basics, HTML & CSS, MySQL queries, and full stack development fundamentals.
+💬 Ask me about
+Python security scripts, cryptography basics, blockchain concepts, and cybersecurity fundamentals.
 
-⚡ **Fun Fact**: I enjoy turning ideas into working web applications and love learning new technologies step by step 🚀
+⚡ Fun Fact
+I enjoy analyzing how systems work internally and building tools that make digital systems more secure 🔐
 
 ---
 
