@@ -25,6 +25,7 @@ I enjoy analyzing how systems work internally and building tools that make digit
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/manikanta-katta-8040aa256/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode\&logoColor=black)](https://leetcode.com/u/Manikanta_434/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?logo=hackerrank\&logoColor=white)](https://www.hackerrank.com/profile/kattamanikanta41)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23FF0000.svg?logo=tryhackme\&logoColor=white)](https://tryhackme.com/p/ManikantaKatta)
 
 ---
 
